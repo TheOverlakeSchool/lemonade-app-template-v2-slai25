@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">GenericTemplate</string>
+    <string name="app_name">LemonadeMaker</string>
+    <string name="taptree">Tap the lemon tree to select a lemon</string>
+    <string name="squeezelemon">Tap again to squeeze the lemon</string>
+    <string name="tapdrink">Tap to drink the lemonade!</string>
+    <string name="taprestart">Tap the glass to make more lemonade</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
 </resources>
